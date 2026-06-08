@@ -2,7 +2,8 @@
 
 ## Overview
 
-Social Hub is a modern social media platform that allows users to connect, share posts, interact through comments, like content, and follow other users. The platform provides a simple and engaging environment for online communication and community building.
+Social Hub is a modern social media platform that allows users to connect, share posts, interact through comments, like content, and follow other users. 
+The platform provides a simple and engaging environment for online communication and community building.
 
 ## Features
 
